@@ -1,4 +1,4 @@
-🛠️ Online Complaint Management System (MERN Stack)
+🛠️ Online Complaint platform(MERN Stack)
 --
 This project is a MERN stack-based web application that allows users to register complaints and track their status. It includes login/signup pages, complaint forms, and admin/agent dashboards.
 
@@ -24,36 +24,30 @@ Edit
 complaint-system/
 ├── frontend/     # React UI
 └── backend/      # Node.js + Express API
+
 🚀 How to Run
 --
 Backend Setup
 --
 
-bash
-Copy
-Edit
+
 cd backend
+
 npm install
+
 npm start
+
 Frontend Setup
 --
 
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm start
-🌐 Environment Variables
---
-Create a .env file in the backend:
 
-ini
-Copy
-Edit
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=any_random_string
+cd frontend
+
+npm install
+
+npm start
+
+
 📌 Features
 --
 User Registration/Login
