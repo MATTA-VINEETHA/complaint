@@ -4,7 +4,7 @@ This project is a MERN stack-based web application that allows users to register
 
 🔗 Google Drive Project Files
 --
-📁 Click to View Folder
+https://drive.google.com/drive/folders/1vBtoDTMRvfWVbMKaHR8HEFW0aMtriZv6?usp=drive_link
 
 💻 Tech Stack
 --
